@@ -71,7 +71,7 @@ int main()
 	printf("\t\t\t\t\t2048 GAME\n");
 	printf("\n\t\t\t________");
 	printf("\n\t\t\t____");
-	printf("\n\t\t\tGame developed by Akshara ,Ekta, Priyankaa, Swathi and Tejal \n");
+	printf("\n\t\t\tGame developed by Swathi \n");
 	printf("\n\t\t\tEnter S to start the game\n");
 	printf("\n\t\t\tEnter Q to start the quit\n");
 	printf("\n\t\t\tEnter H for help \n\n\n\n");
